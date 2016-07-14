@@ -10,7 +10,7 @@ Team::Team(QString name, int problemas)
     totalAceptado=0;
     posicionActual=0;
 }
-
+//a;adiendo linea
 Team::Team(const Team & equipo){
     nombre = equipo.nombre;
     penalidad = equipo.penalidad;
