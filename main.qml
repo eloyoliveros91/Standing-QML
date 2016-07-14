@@ -19,7 +19,7 @@ ApplicationWindow {
     signal envioSignal()
 
 
-
+//otro comentario
     //    property alias fileDescr: fileDialogDesc.fileUrl
     //    property alias fileDescr: fileDialogDesc.fileUrl
     //    property alias fileDescr: fileDialogDesc.fileUrl
